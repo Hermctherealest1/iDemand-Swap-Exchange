@@ -5,6 +5,6 @@ One such innovation that is gaining traction is the iDemand Swap Exchange. This 
 Delve into the world of iDemand Swap Exchange and explore how it is revolutionizing the way we trade.
 
 <!---
-Hermctherealest1/Hermctherealest1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iDemandswapexchange/iDemandswapexchange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
